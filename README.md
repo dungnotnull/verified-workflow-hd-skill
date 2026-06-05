@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/dependencies-none-success?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/language-markdown-blue?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/license-MIT-6b9fff?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/ai-agent%20ready-✓-facc15?style=flat-square&labelColor=1a1a2e" />
 </p>
 
 <br/>
