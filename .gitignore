@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Agent / tooling artifacts
+.commandcode/taste/
+*.log
+
+# Misc
+.env
+.tmp/
+temp/
